@@ -10,7 +10,7 @@ class App extends React.Component {
   };
 
   componentDidMount() {
-    this.handleSubmit("React Js");
+    this.handleSubmit("React js");
   }
 
   onVideoSelect = video => {
